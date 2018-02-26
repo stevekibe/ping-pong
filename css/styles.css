@@ -7,13 +7,13 @@ body{
 
 }
 .header{
-  background-image: url(/home/steve/Desktop/ping-pong/images/download.jpeg);
+  background-image: url(../images/download.jpeg);
 }
 #ss{
   color:red;
 }
 body{
-  background-image: url(/home/steve/Desktop/ping-pong/images/photo-1497892597262-2983614aa886.jpeg);
+  background-image: url(../images/photo-1497892597262-2983614aa886.jpeg);
 }
 .att{
   color:red;
