@@ -2,3 +2,13 @@
 .mint{
   background-color: lightgreen;
 }
+body{
+  background-color: violet;
+
+}
+.header{
+  background-image: url(/home/steve/Desktop/ping-pong/images/download.jpeg);
+}
+h1{
+  color:red;
+}
